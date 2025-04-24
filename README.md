@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, eu sou o Natã Lucas!
+
+Desenvolvedor Web focado em criar interfaces modernas com HTML, CSS, JavaScript e Bootstrap.
+
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/natã-lucas-91842033b)  
+📂 [Veja meus projetos](https://github.com/Natanx07?tab=repositories)
+
 
 <!--
 **Natanx07/Natanx07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
